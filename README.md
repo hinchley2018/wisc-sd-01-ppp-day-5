@@ -1,6 +1,6 @@
 ## Getting started
 - `pip install -r requirements.txt`
 
-## How to run
+## How to run locally
 
 - `flask run`

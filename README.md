@@ -4,3 +4,5 @@
 ## How to run locally
 
 - `flask run`
+
+[PostMan collection](petfax.postman_collection.json)
